@@ -32,6 +32,4 @@ Este repositório é um trabalho em progresso, e contribuições são sempre bem
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir o conteúdo conforme necessário.
 
----
 
-Desejamos a você uma jornada de aprendizado produtiva e gratificante!
