@@ -31,5 +31,3 @@ Este repositório é um trabalho em progresso, e contribuições são sempre bem
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir o conteúdo conforme necessário.
-
-
