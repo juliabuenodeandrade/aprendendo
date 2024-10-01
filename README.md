@@ -4,13 +4,16 @@ Este repositório foi criado com o objetivo de fornecer um material de referênc
 
 ## Estrutura do Repositório
 
-O repositório está organizado da seguinte forma:
+O repositório está organizado com N_TEMA, em que N é o momento que foi escrito e TEMA sobre o que é. Ou seja, o primeiro tópico foi o git (0_git):
 
-- **[Conda](/conda/README.md)**: guia (bastante) introdutório sobre como usar o Conda, um sistema de gerenciamento de pacotes e ambientes que facilita a instalação de software e suas dependências em projetos de ciência de dados e desenvolvimento de software.
+- **[Git](/0_git/README.md)**: fundamentos do Git, o sistema de controle de versão distribuído que permite rastrear as mudanças no código-fonte durante o desenvolvimento de software.
 
-- **[Git](/git/README.md)**: fundamentos do Git, o sistema de controle de versão distribuído que permite rastrear as mudanças no código-fonte durante o desenvolvimento de software.
+- **[Ubuntu](/1_ubuntu/README.md)**: como começar a usar o Ubuntu, uma das distribuições Linux mais populares.
 
-- **[Ubuntu](/ubuntu/README.md)**: como começar a usar o Ubuntu, uma das distribuições Linux mais populares.
+- **[Conda](/2_conda/README.md)**: guia (bastante) introdutório sobre como usar o Conda, um sistema de gerenciamento de pacotes e ambientes que facilita a instalação de software e suas dependências em projetos de ciência de dados e desenvolvimento de software.
+
+- **[Testes](/3_testes/README.md)**: uma introdução ao conceito de testes em python, como utilziar, como estruturar e etc... É um repositório mais fundamental que instrumental.
+
 
 ## Como Usar Este Repositório
 
