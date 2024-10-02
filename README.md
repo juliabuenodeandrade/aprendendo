@@ -14,6 +14,7 @@ O repositório está organizado com N_TEMA, em que N é o momento que foi escrit
 
 - **[Testes](/3_testes/README.md)**: uma introdução ao conceito de testes em python, como utilziar, como estruturar e etc... É um repositório mais fundamental que instrumental.
 
+- **[SQl](/4_sql/README.md)**: uma introdução ao conceito de testes em python, como utilziar, como estruturar e etc... É um repositório mais fundamental que instrumental.
 
 ## Como Usar Este Repositório
 
